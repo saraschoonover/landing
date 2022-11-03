@@ -1,0 +1,61 @@
+.banner {
+  background-size: cover;
+  padding: 150px 0px;
+}
+
+.container {
+  color: white;
+  text-align: left;
+}
+
+.container2 {
+  text-align: center;
+}
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card img {
+  height: 100px;
+  width: 200px;
+}
+
+.card {
+ border: 0.5px solid rgb(189, 186, 186);
+ padding: 10px;
+ margin: 50px;
+ height: 300px;
+ width: 200px;
+ box-shadow: 0px 0px 5px rgb(230, 230, 230);
+ opacity: 1;
+}
+
+.card p {
+  color: rgb(129, 125, 125);
+}
+
+.footer {
+  display: block;
+  background-color: #4b4949;
+  padding: 60px;
+
+}
+
+.fab {
+  color: white;
+  font-size: 30px;
+}
+
+
+.fa-brands {
+  color: white;
+  font-size: 30px;
+}
+
+.footer {
+  display: block;
+  text-align: center;
+  justify-content: space-between;
+}
